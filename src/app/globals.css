@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+:root {
+  --primary-color: #F66F4D;
+  --second-color: #FAF8ED;
+  --third-color: #2B9BA7;
+}
